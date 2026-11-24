@@ -1,0 +1,65 @@
+{
+    "S001": {
+        "id": "S001",
+        "name": "ST",
+        "age": 1,
+        "course": "string",
+        "email": "user@example.com",
+        "marks": 100
+    },
+    "S002": {
+        "id": "S001",
+        "name": "ST",
+        "age": 1,
+        "course": "string",
+        "email": "user@example.com",
+        "marks": 100
+    },
+    "S003": {
+        "id": "S001",
+        "name": "ST",
+        "age": 1,
+        "course": "string",
+        "email": "user@example.com",
+        "marks": 100
+    },
+    "S004": {
+        "id": "S001",
+        "name": "ST",
+        "age": 1,
+        "course": "string",
+        "email": "user@example.com",
+        "marks": 100
+    },
+    "S005": {
+        "id": "S001",
+        "name": "ST",
+        "age": 1,
+        "course": "string",
+        "email": "user@example.com",
+        "marks": 100
+    },
+    "S006": {
+        "id": "S001",
+        "name": "ST",
+        "age": 1,
+        "course": "string",
+        "email": "user@example.com",    
+        "marks": 100
+    },
+    "S007": {
+        "id": "S001",
+        "name": "ST",
+        "age": 1,
+        "course": "string",
+        "email": "user@example.com",
+        "marks": 100
+    },
+    "S0010": {
+        "name": "Mrunali",
+        "age": 25,
+        "course": "SCI",
+        "email": "Vs@example.com",
+        "marks": 100
+    }
+}
